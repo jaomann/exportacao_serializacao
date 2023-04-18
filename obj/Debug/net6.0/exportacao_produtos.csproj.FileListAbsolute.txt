@@ -1,0 +1,36 @@
+C:\Users\Joao\source\repos\exportacao_produtos\obj\Debug\net6.0\exportacao_produtos.csproj.AssemblyReference.cache
+C:\Users\Joao\source\repos\exportacao_produtos\obj\Debug\net6.0\exportacao_produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joao\source\repos\exportacao_produtos\obj\Debug\net6.0\exportacao_produtos.AssemblyInfoInputs.cache
+C:\Users\Joao\source\repos\exportacao_produtos\obj\Debug\net6.0\exportacao_produtos.AssemblyInfo.cs
+C:\Users\Joao\source\repos\exportacao_produtos\obj\Debug\net6.0\exportacao_produtos.csproj.CoreCompileInputs.cache
+C:\Users\Joao\source\repos\exportacao_produtos\bin\Debug\net6.0\exportacao_produtos.exe
+C:\Users\Joao\source\repos\exportacao_produtos\bin\Debug\net6.0\exportacao_produtos.deps.json
+C:\Users\Joao\source\repos\exportacao_produtos\bin\Debug\net6.0\exportacao_produtos.runtimeconfig.json
+C:\Users\Joao\source\repos\exportacao_produtos\bin\Debug\net6.0\exportacao_produtos.dll
+C:\Users\Joao\source\repos\exportacao_produtos\bin\Debug\net6.0\exportacao_produtos.pdb
+C:\Users\Joao\source\repos\exportacao_produtos\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Joao\source\repos\exportacao_produtos\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Joao\source\repos\exportacao_produtos\obj\Debug\net6.0\exportacao_produtos.csproj.CopyComplete
+C:\Users\Joao\source\repos\exportacao_produtos\obj\Debug\net6.0\exportacao_produtos.dll
+C:\Users\Joao\source\repos\exportacao_produtos\obj\Debug\net6.0\refint\exportacao_produtos.dll
+C:\Users\Joao\source\repos\exportacao_produtos\obj\Debug\net6.0\exportacao_produtos.pdb
+C:\Users\Joao\source\repos\exportacao_produtos\obj\Debug\net6.0\exportacao_produtos.genruntimeconfig.cache
+C:\Users\Joao\source\repos\exportacao_produtos\obj\Debug\net6.0\ref\exportacao_produtos.dll
+C:\Users\João Emanuel\source\repos\exportacao_produtos\bin\Debug\net6.0\exportacao_produtos.exe
+C:\Users\João Emanuel\source\repos\exportacao_produtos\bin\Debug\net6.0\exportacao_produtos.deps.json
+C:\Users\João Emanuel\source\repos\exportacao_produtos\bin\Debug\net6.0\exportacao_produtos.runtimeconfig.json
+C:\Users\João Emanuel\source\repos\exportacao_produtos\bin\Debug\net6.0\exportacao_produtos.dll
+C:\Users\João Emanuel\source\repos\exportacao_produtos\bin\Debug\net6.0\exportacao_produtos.pdb
+C:\Users\João Emanuel\source\repos\exportacao_produtos\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\João Emanuel\source\repos\exportacao_produtos\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\João Emanuel\source\repos\exportacao_produtos\obj\Debug\net6.0\exportacao_produtos.csproj.AssemblyReference.cache
+C:\Users\João Emanuel\source\repos\exportacao_produtos\obj\Debug\net6.0\exportacao_produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João Emanuel\source\repos\exportacao_produtos\obj\Debug\net6.0\exportacao_produtos.AssemblyInfoInputs.cache
+C:\Users\João Emanuel\source\repos\exportacao_produtos\obj\Debug\net6.0\exportacao_produtos.AssemblyInfo.cs
+C:\Users\João Emanuel\source\repos\exportacao_produtos\obj\Debug\net6.0\exportacao_produtos.csproj.CoreCompileInputs.cache
+C:\Users\João Emanuel\source\repos\exportacao_produtos\obj\Debug\net6.0\exportacao_produtos.csproj.CopyComplete
+C:\Users\João Emanuel\source\repos\exportacao_produtos\obj\Debug\net6.0\exportacao_produtos.dll
+C:\Users\João Emanuel\source\repos\exportacao_produtos\obj\Debug\net6.0\refint\exportacao_produtos.dll
+C:\Users\João Emanuel\source\repos\exportacao_produtos\obj\Debug\net6.0\exportacao_produtos.pdb
+C:\Users\João Emanuel\source\repos\exportacao_produtos\obj\Debug\net6.0\exportacao_produtos.genruntimeconfig.cache
+C:\Users\João Emanuel\source\repos\exportacao_produtos\obj\Debug\net6.0\ref\exportacao_produtos.dll

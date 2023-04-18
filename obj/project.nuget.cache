@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CXK6+xOejT9zoLvnoNGx41i8dcGVDMsXr8I193bauU9M/dpsFYMwJbzqTKFmHJkZK6P7hL1hj37t2adKd0LlfA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\João Emanuel\\source\\repos\\exportacao_produtos\\exportacao_produtos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\João Emanuel\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\João Emanuel\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
