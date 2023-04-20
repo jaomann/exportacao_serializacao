@@ -106,6 +106,7 @@ namespace exportacao_produtos
 
 
             //Falta serialização
+            //Criar metodo de import especifico para Json
         }
     }
 }
